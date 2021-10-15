@@ -1,0 +1,18 @@
+button:disabled {
+    background-color: cyan
+  }
+
+
+body{background-color: rgb(190, 210, 216);
+
+    
+    color: rgb(8, 8, 8);}
+h1{border-style: solid;
+    font-size:xx-large;
+    border-bottom-width: 10px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0; color: #000;}
+div{border-style: solid;color: black;}
+
+ 
